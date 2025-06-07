@@ -1,0 +1,86 @@
+{
+  "roadmap": {
+    "Fase 0 – Settimana Zero (Propedeutica)": {
+      "0.1 – Visione generale e obiettivi": {
+        "stato": "⬜",
+        "note": "Da avviare"
+      },
+      "0.2 – Studio preliminare delle lingue e simboli": {
+        "stato": "⬜"
+      },
+      "0.3 – Definizione dell’impianto narrativo": {
+        "stato": "⬜"
+      }
+    },
+    "Fase I – Struttura narrativa e linguistica": {
+      "1.1 – Outline trilogia": {
+        "stato": "⬜"
+      },
+      "1.2 – Costruzione linguaggi": {
+        "stato": "⬜"
+      },
+      "1.3 – Alfabeto e fonologia": {
+        "stato": "⬜"
+      }
+    },
+    "Fase II – Personaggi e ambienti": {
+      "2.1 – Personaggi principali": {
+        "stato": "⬜"
+      },
+      "2.2 – Città e geografia narrativa": {
+        "stato": "⬜"
+      }
+    },
+    "Fase III – Simbologia e mitologia": {
+      "3.1 – Sistema simbolico": {
+        "stato": "⬜"
+      },
+      "3.2 – Arche Foniche": {
+        "stato": "⬜"
+      }
+    },
+    "Fase IV – Scene narrative": {
+      "4.1 – Scene 1–4": {
+        "stato": "⬜"
+      },
+      "4.2 – Scene 5–13": {
+        "stato": "⬜"
+      }
+    },
+    "Fase V – Codex e Lingue": {
+      "5.1 – Codex Lingua dei Risvegliati": {
+        "stato": "⬜"
+      },
+      "5.2 – Codex Lingua Innominata": {
+        "stato": "⬜"
+      }
+    },
+    "Fase VI – Produzione creativa": {
+      "6.1 – Stesura libro I": {
+        "stato": "⬜"
+      },
+      "6.2 – Contenuti extra e spin-off": {
+        "stato": "⬜"
+      }
+    },
+    "Fase VII – Revisione e pubblicazione": {
+      "7.1 – Revisione testi": {
+        "stato": "⬜"
+      },
+      "7.2 – Preparazione pubblicazione": {
+        "stato": "⬜"
+      }
+    },
+    "Fase VIII – Marketing e ARG": {
+      "8.1 – Strategia marketing": {
+        "stato": "⬜"
+      },
+      "8.2 – Gioco della Frattura (ARG)": {
+        "stato": "⬜"
+      }
+    }
+  },
+  "ultima_verifica": "2025-06-07T15:11:01.725030",
+  "autore": "Francesco",
+  "note_globali": "Roadmap iniziale pulita – versione base"
+}
