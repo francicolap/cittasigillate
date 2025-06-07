@@ -1,10 +1,28 @@
 {
-  "concetti": [
-    "intonazione che non appartiene a nessuna lingua ufficiale",
-    "simboli che si piegano",
-    "silenzi attivi",
-    "gesti fonici"
-  ],
-  "tipologia": "simbolismo implicito fondante",
-  "fase_successiva": "sviluppo in Fase 4 – Sistemi Simbolici"
+  "version": "1.0",
+  "updated": "2025-06-08",
+  "type": "symbol_document",
+  "title": "Simboli Originari",
+  "content": {
+    "descrizione": "I primi simboli emersi prima del collasso, ancora attivi e puri.",
+    "usi": [
+      "Trasmissione rituale",
+      "Attivazione di memoria",
+      "Protezione narrativa"
+    ],
+    "esempi": [
+      {
+        "nome": "⟁",
+        "significato": "Frattura"
+      },
+      {
+        "nome": "☰",
+        "significato": "Verbo"
+      },
+      {
+        "nome": "◬",
+        "significato": "Silenzio Vivo"
+      }
+    ]
+  }
 }

@@ -1,14 +1,12 @@
 {
-  "definizione": "Evento linguistico globale che ha portato al collasso del significato.",
-  "caratteristiche": [
-    "non biologica",
-    "non digitale",
-    "linguistica"
-  ],
-  "effetti": [
-    "perdita di comprensione",
-    "frammentazione delle città",
-    "creazione delle Arche"
-  ],
-  "frase_iconica": "Non è biologica. Non è digitale. È linguistica."
+  "version": "1.0",
+  "updated": "2025-06-08",
+  "type": "lore_document",
+  "title": "Origine della Frattura",
+  "content": {
+    "evento_centrale": "Un collasso semantico globale ha reso instabili le lingue umane.",
+    "effetto": "Le parole hanno cominciato a perdere significato, contagiando la realtà.",
+    "risposta": "Le città si sono sigillate per difendersi dal contagio linguistico.",
+    "teoria_linguistica": "L’infezione ha colpito i fonemi profondi. Alcune lingue si sono salvate perché mutate."
+  }
 }

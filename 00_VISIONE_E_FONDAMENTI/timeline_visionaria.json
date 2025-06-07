@@ -1,25 +1,19 @@
 {
-  "eventi": [
-    {
-      "fase": "0",
-      "evento": "Frattura del linguaggio"
-    },
-    {
-      "fase": "1",
-      "evento": "Sigillatura delle città"
-    },
-    {
-      "fase": "2",
-      "evento": "Apparizione delle Arche Foniche"
-    },
-    {
-      "fase": "3",
-      "evento": "Manifestazione dei Risvegliati"
-    },
-    {
-      "fase": "4",
-      "evento": "Inizio della Rete Inter-Città"
-    }
-  ],
-  "note": "Date simboliche e cicliche, non lineari"
+  "version": "1.0",
+  "updated": "2025-06-08",
+  "type": "timeline_document",
+  "title": "Timeline Visionaria",
+  "content": {
+    "fasi": [
+      "Pre-frattura: pluralità delle lingue ancora sane.",
+      "Collasso fonemico: il senso decade e si frattura.",
+      "Sigillamento: ogni città crea una lingua controllata.",
+      "Risveglio: emergono segnali di verità impossibile da esprimere."
+    ],
+    "effetti": [
+      "Frammentazione dell’identità.",
+      "Distorsione della memoria.",
+      "Emersione di simboli profondi e incontrollati."
+    ]
+  }
 }

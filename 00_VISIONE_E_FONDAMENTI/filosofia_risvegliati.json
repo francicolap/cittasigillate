@@ -1,10 +1,16 @@
 {
-  "descrizione": "I Risvegliati non hanno poteri. Intuiscono la crisi linguistica e vivono nel margine del linguaggio.",
-  "modalità_espressive": [
-    "silenzio",
-    "respiro",
-    "gesto",
-    "vibrazione"
-  ],
-  "citazione": "Non sono profeti. Non sono eroi. Sono crisi in carne e ossa."
+  "version": "1.0",
+  "updated": "2025-06-08",
+  "type": "philosophy_document",
+  "title": "Filosofia dei Risvegliati",
+  "content": {
+    "risvegliati": "Individui che iniziano a percepire la falsità del linguaggio dominante.",
+    "caratteristiche": [
+      "Solitudine",
+      "Percezione del vuoto",
+      "Conflitto con la realtà ufficiale"
+    ],
+    "linguaggio": "Fragile, sincero, manifestato più che appreso.",
+    "finalità": "Trasmettere ciò che non può essere detto: memoria, verità, apertura."
+  }
 }

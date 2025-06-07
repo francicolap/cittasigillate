@@ -1,12 +1,22 @@
 {
-  "titolo": "Prologo – Ciò che rimane del dire",
-  "concetti_chiave": [
-    "Frattura",
-    "Sigillatura",
-    "Arche Foniche",
-    "Risvegliati"
-  ],
-  "tono": "poetico-filosofico",
-  "estratto": "Nessuno ricorda il momento esatto in cui la lingua smise di funzionare.",
-  "obiettivo": "Aprire la saga come Codex e racconto"
+  "version": "1.0",
+  "updated": "2025-06-08",
+  "type": "vision_document",
+  "title": "Manifesto Narrativo",
+  "content": {
+    "principi": [
+      "L'opera nasce da un bisogno di verità e rottura semantica.",
+      "Ogni parola è una ferita, ogni glifo è un ponte.",
+      "Il mondo è stato sigillato non per difendersi, ma per dimenticare."
+    ],
+    "struttura_opera": "Trilogia centrale + opere espanse (Codex, spin-off, simboli).",
+    "vocazione": "Opera totale: narrativa, linguistica, rituale, simbolica.",
+    "ruolo_lettore": "Il lettore diventa decifratore e parte attiva del risveglio.",
+    "dimensioni": [
+      "Filosofica",
+      "Sensoriale",
+      "Narrativa",
+      "Simbolica"
+    ]
+  }
 }
