@@ -1,12 +1,6 @@
 {
-  "version": "1.0",
-  "updated": "2025-06-08",
-  "type": "lore_document",
-  "title": "Origine della Frattura",
-  "content": {
-    "evento_centrale": "Un collasso semantico globale ha reso instabili le lingue umane.",
-    "effetto": "Le parole hanno cominciato a perdere significato, contagiando la realtà.",
-    "risposta": "Le città si sono sigillate per difendersi dal contagio linguistico.",
-    "teoria_linguistica": "L’infezione ha colpito i fonemi profondi. Alcune lingue si sono salvate perché mutate."
-  }
+  "titolo": "Origine della Frattura",
+  "contenuto": "La Frattura non fu un evento, ma un processo. Una lenta erosione della comprensione, un accumularsi di scarti impercettibili tra il significato e la parola, tra il gesto e il suo simbolo.\n\nNel tempo, il linguaggio divenne sospetto. Alcuni suoni sembravano contaminare i pensieri. Alcune frasi, pronunciate senza controllo, causavano spasmi, mutazioni percettive, crisi identitarie.\n\nLe Città Sigillate nacquero come rifugi. Ma non erano solo rifugi fisici: erano sigilli cognitivi. Ogni città sviluppò un proprio linguaggio funzionale, una grammatica d’emergenza, strumenti per sopravvivere alla corruzione semantica che aveva infettato il mondo.\n\nAll’origine della Frattura ci fu una saturazione: di nomi, di immagini, di simboli riciclati. Nulla era più nuovo. La realtà stessa pareva dissolversi sotto il peso dei significati in eccesso. E allora qualcuno propose un’idea estrema: smettere di parlare. O almeno, smettere di dire tutto.\n\nFu così che nacquero i primi Risvegliati. Silenziosi, tremanti, capaci di piegare l’aria senza emettere suoni. Da quel giorno, ogni linguaggio fu una scelta. E ogni parola, un rischio.",
+  "versione": "1.0",
+  "autore": "Francesco / progetto Città Sigillate"
 }
