@@ -1,7 +1,7 @@
 {
     "project": "Citt\u00e0 Sigillate",
     "generated": "2025-06-07 21:32",
-    "base_url": "https://raw.githubusercontent.com/francicolap/cittasigillate/refs/heads/main/",
+    "base_url": "https://raw.githubusercontent.com/francicolap/cittasigillate/",
     "roadmap_structure": {
         "0_Visione_e_Fondamenti": [
             "0_Visione_e_Fondamenti/manifesto_narrativo.json",
