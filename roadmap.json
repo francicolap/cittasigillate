@@ -1,163 +1,101 @@
 {
-  "meta": {
-    "versione": "v1.0",
-    "data_creazione": "2025-06-07T15:42:53.721562",
-    "autore": "Francesco",
-    "note": "Roadmap completa iniziale con sotto-task vuoti"
-  },
-  "fasi": {
-    "Settimana Zero – Propedeutica": {
-      "0.1 – Definizione visione e intenti": {
-        "stato": "⬜",
-        "cartella": "settimana_zero/",
-        "note": ""
-      },
-      "0.2 – Preparazione ambienti di lavoro": {
-        "stato": "⬜",
-        "cartella": "settimana_zero/",
-        "note": ""
-      },
-      "0.3 – Revisione materiali precedenti": {
-        "stato": "⬜",
-        "cartella": "settimana_zero/",
-        "note": ""
-      }
+  "version": "v3.0",
+  "updated": "2025-06-07",
+  "type": "roadmap_creativa_trilogia",
+  "fasi": [
+    {
+      "fase": "0️⃣ Visione e Fondamenti",
+      "cartella": "00_SETTIMANA_ZERO_PREPARATORIA",
+      "file": [
+        "manifesto_narrativo.json",
+        "origine_frattura.json",
+        "filosofia_risvegliati.json",
+        "simboli_originari.json",
+        "timeline_visionaria.json"
+      ]
     },
-    "Fase I – Struttura narrativa e linguistica": {
-      "1.1 – Outline narrativa trilogia": {
-        "stato": "⬜",
-        "cartella": "outline/",
-        "note": ""
-      },
-      "1.2 – Struttura globale Codex": {
-        "stato": "⬜",
-        "cartella": "codex/",
-        "note": ""
-      },
-      "1.3 – Configurazione file master": {
-        "stato": "⬜",
-        "cartella": "master/",
-        "note": ""
-      }
+    {
+      "fase": "1️⃣ Struttura narrativa e personaggi",
+      "cartella": "01_STRUTTURA_NARRATIVA_E_PERSONAGGI",
+      "sottofasi": [
+        "libro1",
+        "libro2",
+        "libro3"
+      ]
     },
-    "Fase II – Personaggi e ambienti": {
-      "2.1 – Schede personaggi principali": {
-        "stato": "⬜",
-        "cartella": "personaggi/",
-        "note": ""
-      },
-      "2.2 – Ambientazione e geografia narrativa": {
-        "stato": "⬜",
-        "cartella": "geografia/",
-        "note": ""
-      },
-      "2.3 – Dinamiche tra personaggi": {
-        "stato": "⬜",
-        "cartella": "relazioni/",
-        "note": ""
-      }
+    {
+      "fase": "2️⃣ Lingue e Codici narrativi",
+      "cartella": "02_LINGUE_E_CODICI",
+      "subcartelle": [
+        "lingua_innominata",
+        "lingua_risvegliati"
+      ]
     },
-    "Fase III – Simbologia e mitologia": {
-      "3.1 – Simboli principali": {
-        "stato": "⬜",
-        "cartella": "simboli/",
-        "note": ""
-      },
-      "3.2 – Arche Foniche": {
-        "stato": "⬜",
-        "cartella": "arche/",
-        "note": ""
-      },
-      "3.3 – Mitologia del linguaggio": {
-        "stato": "⬜",
-        "cartella": "mitologia/",
-        "note": ""
-      }
+    {
+      "fase": "3️⃣ Geografia e ambienti sigillati",
+      "cartella": "03_GEOGRAFIA_E_MONDI_SIGILLATI",
+      "file": [
+        "mappa_globale.json",
+        "città_sigillate.json",
+        "struttura_compound.json",
+        "zone_est_ovest.json",
+        "climi_rituali.json"
+      ]
     },
-    "Fase IV – Scene narrative": {
-      "4.1 – Scrittura scene 1–4": {
-        "stato": "⬜",
-        "cartella": "scene/",
-        "note": ""
-      },
-      "4.2 – Scrittura scene 5–9": {
-        "stato": "⬜",
-        "cartella": "scene/",
-        "note": ""
-      },
-      "4.3 – Scrittura scene 10–13": {
-        "stato": "⬜",
-        "cartella": "scene/",
-        "note": ""
-      }
+    {
+      "fase": "4️⃣ Arche, miti, cronologie",
+      "cartella": "04_STORIA_E_MITOLOGIA",
+      "file": [
+        "cronologia_post_frattura.json",
+        "miti_fondativi.json",
+        "arche_foniche.json",
+        "racconti_trasmessi.json",
+        "linea_temporale_mondo.json"
+      ]
     },
-    "Fase V – Codex e Lingue": {
-      "5.1 – Lingua Innominata (struttura)": {
-        "stato": "⬜",
-        "cartella": "lingue/innominata/",
-        "note": ""
-      },
-      "5.2 – Lingua dei Risvegliati (struttura)": {
-        "stato": "⬜",
-        "cartella": "lingue/risvegliati/",
-        "note": ""
-      },
-      "5.3 – Tavole e glifi": {
-        "stato": "⬜",
-        "cartella": "lingue/glifi/",
-        "note": ""
-      }
+    {
+      "fase": "5️⃣ Stesura finale, revisione, pubblicazione",
+      "cartella": "05_STESURA_E_REVISIONE",
+      "file": [
+        "stesura_libro1.md",
+        "stesura_libro2.md",
+        "stesura_libro3.md",
+        "revisione_generale.json",
+        "piano_pubblicazione.json"
+      ]
     },
-    "Fase VI – Produzione creativa": {
-      "6.1 – Prima bozza libro 1": {
-        "stato": "⬜",
-        "cartella": "bozza/",
-        "note": ""
-      },
-      "6.2 – Codex illustrato": {
-        "stato": "⬜",
-        "cartella": "codex/",
-        "note": ""
-      },
-      "6.3 – Altri materiali narrativi": {
-        "stato": "⬜",
-        "cartella": "extra/",
-        "note": ""
-      }
+    {
+      "fase": "6️⃣ Spin-off, orfanotrofio, estensioni",
+      "cartella": "06_SPIN-OFF_E_ESTENSIONI",
+      "file": [
+        "orfanotrofio.json",
+        "cronache_alternate.json",
+        "bestiario.json",
+        "lingue_locali.json",
+        "archivi_periferici.json"
+      ]
     },
-    "Fase VII – Revisione e pubblicazione": {
-      "7.1 – Revisione narrativa": {
-        "stato": "⬜",
-        "cartella": "revisione/",
-        "note": ""
-      },
-      "7.2 – Impaginazione": {
-        "stato": "⬜",
-        "cartella": "impaginazione/",
-        "note": ""
-      },
-      "7.3 – Produzione finale libro": {
-        "stato": "⬜",
-        "cartella": "pubblicazione/",
-        "note": ""
-      }
+    {
+      "fase": "7️⃣ Marketing, sito, ARG",
+      "cartella": "07_MARKETING_E_CAMPAGNA",
+      "file": [
+        "idee_social.json",
+        "gioco_frattura_ARG.json",
+        "pagine_sito_autore.json",
+        "schede_teaser.json",
+        "roadmap_lancio.json"
+      ]
     },
-    "Fase VIII – Marketing e ARG": {
-      "8.1 – Strategia social media": {
-        "stato": "⬜",
-        "cartella": "marketing/",
-        "note": ""
-      },
-      "8.2 – Gioco della Frattura": {
-        "stato": "⬜",
-        "cartella": "arg/",
-        "note": ""
-      },
-      "8.3 – Materiale virale e collezionabile": {
-        "stato": "⬜",
-        "cartella": "virale/",
-        "note": ""
-      }
+    {
+      "fase": "8️⃣ Analisi di coerenza della trilogia",
+      "cartella": "08_ANALISI_TRILOGIA",
+      "file": [
+        "struttura_temporale_comparata.json",
+        "simboli_ricorrenti.json",
+        "evoluzione_personaggi.json",
+        "coerenza_linguistica.json",
+        "temi_trasversali.json"
+      ]
     }
-  }
+  ]
 }
