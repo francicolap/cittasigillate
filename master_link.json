@@ -1,0 +1,68 @@
+{
+    "project": "Citt\u00e0 Sigillate",
+    "generated": "2025-06-07 21:32",
+    "base_url": "https://francicolap.github.io/cittasigillate/",
+    "roadmap_structure": {
+        "0_Visione_e_Fondamenti": [
+            "0_Visione_e_Fondamenti/manifesto_narrativo.json",
+            "0_Visione_e_Fondamenti/origine_frattura.json",
+            "0_Visione_e_Fondamenti/filosofia_risvegliati.json",
+            "0_Visione_e_Fondamenti/simboli_originari.json",
+            "0_Visione_e_Fondamenti/timeline_visionaria.json"
+        ],
+        "1_Struttura_narrativa_e_personaggi": [
+            "1_Struttura_narrativa_e_personaggi/outline_trilogia.json",
+            "1_Struttura_narrativa_e_personaggi/scene_01-13.json",
+            "1_Struttura_narrativa_e_personaggi/scene_extra.json",
+            "1_Struttura_narrativa_e_personaggi/personaggi_principali.json",
+            "1_Struttura_narrativa_e_personaggi/personaggi_secondari.json",
+            "1_Struttura_narrativa_e_personaggi/relazioni.json"
+        ],
+        "2_Lingue_e_Codici_narrativi": [
+            "2_Lingue_e_Codici_narrativi/lingua_innominata.json",
+            "2_Lingue_e_Codici_narrativi/codex_completo.json",
+            "2_Lingue_e_Codici_narrativi/fonologia.json",
+            "2_Lingue_e_Codici_narrativi/sintassi.json",
+            "2_Lingue_e_Codici_narrativi/vocabolario.json",
+            "2_Lingue_e_Codici_narrativi/glifi_alphabet.json",
+            "2_Lingue_e_Codici_narrativi/frasi_esempio.json",
+            "2_Lingue_e_Codici_narrativi/livelli_manifestazione.json",
+            "2_Lingue_e_Codici_narrativi/frasi_rituali.json",
+            "2_Lingue_e_Codici_narrativi/gesti.json",
+            "2_Lingue_e_Codici_narrativi/manifesto_educativo_orfanotrofio.json"
+        ],
+        "3_Geografia_e_ambienti_sigillati": [
+            "3_Geografia_e_ambienti_sigillati/mappa_globale.json",
+            "3_Geografia_e_ambienti_sigillati/citta_sigillate.json",
+            "3_Geografia_e_ambienti_sigillati/struttura_compound.json",
+            "3_Geografia_e_ambienti_sigillati/zone_est_ovest.json",
+            "3_Geografia_e_ambienti_sigillati/climi_rituali.json"
+        ],
+        "4_Arche_miti_cronologie": [
+            "4_Arche_miti_cronologie/cronologia_post_frattura.json",
+            "4_Arche_miti_cronologie/miti_fondativi.json",
+            "4_Arche_miti_cronologie/arche_foniche.json",
+            "4_Arche_miti_cronologie/racconti_trasmessi.json",
+            "4_Arche_miti_cronologie/linea_temporale_mondo.json"
+        ],
+        "5_Spin_off_orfanotrofio_estensioni": [
+            "5_Spin_off_orfanotrofio_estensioni/orfanotrofio.json",
+            "5_Spin_off_orfanotrofio_estensioni/cronache_alternate.json",
+            "5_Spin_off_orfanotrofio_estensioni/bestiario.json",
+            "5_Spin_off_orfanotrofio_estensioni/lingue_locali.json",
+            "5_Spin_off_orfanotrofio_estensioni/archivi_periferici.json"
+        ],
+        "6_Marketing_sito_ARG": [
+            "6_Marketing_sito_ARG/idee_social.json",
+            "6_Marketing_sito_ARG/gioco_frattura_ARG.json",
+            "6_Marketing_sito_ARG/pagine_sito_autore.json",
+            "6_Marketing_sito_ARG/schede_teaser.json",
+            "6_Marketing_sito_ARG/roadmap_lancio.json"
+        ],
+        "7_Stesura_finale_revisione_pubblicazione": [
+            "7_Stesura_finale_revisione_pubblicazione/libro_1_stesura.md",
+            "7_Stesura_finale_revisione_pubblicazione/libro_2_stesura.md",
+            "7_Stesura_finale_revisione_pubblicazione/libro_3_stesura.md"
+        ]
+    }
+}
