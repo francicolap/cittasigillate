@@ -1,4 +1,10 @@
 {
-  "placeholder": true,
-  "file": "filosofia_risvegliati.json"
+  "descrizione": "I Risvegliati non hanno poteri. Intuiscono la crisi linguistica e vivono nel margine del linguaggio.",
+  "modalità_espressive": [
+    "silenzio",
+    "respiro",
+    "gesto",
+    "vibrazione"
+  ],
+  "citazione": "Non sono profeti. Non sono eroi. Sono crisi in carne e ossa."
 }

@@ -1,4 +1,14 @@
 {
-  "placeholder": true,
-  "file": "origine_frattura.json"
+  "definizione": "Evento linguistico globale che ha portato al collasso del significato.",
+  "caratteristiche": [
+    "non biologica",
+    "non digitale",
+    "linguistica"
+  ],
+  "effetti": [
+    "perdita di comprensione",
+    "frammentazione delle città",
+    "creazione delle Arche"
+  ],
+  "frase_iconica": "Non è biologica. Non è digitale. È linguistica."
 }

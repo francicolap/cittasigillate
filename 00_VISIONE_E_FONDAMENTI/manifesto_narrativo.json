@@ -1,4 +1,12 @@
 {
-  "placeholder": true,
-  "file": "manifesto_narrativo.json"
+  "titolo": "Prologo – Ciò che rimane del dire",
+  "concetti_chiave": [
+    "Frattura",
+    "Sigillatura",
+    "Arche Foniche",
+    "Risvegliati"
+  ],
+  "tono": "poetico-filosofico",
+  "estratto": "Nessuno ricorda il momento esatto in cui la lingua smise di funzionare.",
+  "obiettivo": "Aprire la saga come Codex e racconto"
 }

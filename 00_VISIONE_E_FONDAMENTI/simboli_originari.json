@@ -1,4 +1,10 @@
 {
-  "placeholder": true,
-  "file": "simboli_originari.json"
+  "concetti": [
+    "intonazione che non appartiene a nessuna lingua ufficiale",
+    "simboli che si piegano",
+    "silenzi attivi",
+    "gesti fonici"
+  ],
+  "tipologia": "simbolismo implicito fondante",
+  "fase_successiva": "sviluppo in Fase 4 – Sistemi Simbolici"
 }
